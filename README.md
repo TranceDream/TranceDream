@@ -7,7 +7,7 @@
 
 - 🌱 在学**Go**了
 
-- 📝 这是我的博客 [http://tranced.tk](http://tranced.tk)
+- 📝 这是我的博客:[TranceD的小屋](http://tranced.tk)
 
 - 📫 电子邮箱是**xgxx111@outlook.com**
 
