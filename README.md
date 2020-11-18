@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaqsice&label=Profile%20views&color=ffadfc&style=flat-square" alt="kaqsice" /> </p>
 
-- 🔭 正在参与[WePeiYang-Flutter](https://github.com/twtstudio/WePeiYang-Flutter)
+- 🔭 正在参与[WePeiYang-Android](https://github.com/twtstudio/WePeiYang-Android/tree/announcement)和[WePeiYang-Flutter](https://github.com/twtstudio/WePeiYang-Flutter)
 
 - 🌱 在学**Go**了
 
