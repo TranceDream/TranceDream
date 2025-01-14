@@ -1,6 +1,8 @@
-<h1 align="center">😺这里是TranceDream</h1>
-<h3 align="center">前端苦手</h3>
+<h1 align="center">TranceDream</h1>
+<h3 align="center">社畜｜NodeJS｜前端｜策略算法<sub>(均为菜鸟)</sub></h3>
 
-- 📫 电子邮箱是**xgxxge@gmail.com** (若有要事建议线下真人快打)
+- 📫 邮箱[xgxxge@gmail.com](mailto:xgxxge@gmail.com)
 
-- 🍙 TJU东方交流群**天大深夜雀食堂**欢迎您的加入
+- ✈️ Telegram[xgxxge@gmail.com](https://t.me/TranceDream)
+
+- 🍙 TJU东方交流群**天大深夜雀食堂**(649907128)欢迎各大高校东方众加入
