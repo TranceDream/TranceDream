@@ -1,5 +1,8 @@
-<h1 align="center">TranceDream</h1>
-<h3 align="center">社畜 | NodeJS | 前端 | 東方Project</h3>
+<div align=center>
+  <img align="center" style="display:inline;width:128px;" src="https://tranced.moe/avatar.webp" alt="avatar" />
+  <h1 align="center">TranceDream</h1>
+  <h3 align="center">社畜 | NodeJS | 多模态 | <del>前端</del> | 東方Project | Self-Hosted 爱好者</h3>
+</div>
 
 - 📫 邮箱[xgxxge@gmail.com](mailto:xgxxge@gmail.com)
 
